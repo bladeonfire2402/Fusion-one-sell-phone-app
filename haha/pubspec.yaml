@@ -1,0 +1,73 @@
+name: haha
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  curved_navigation_bar: ^1.0.6
+  dynamic_height_grid_view: ^0.0.4
+  uuid: ^3.0.6
+  provider: ^6.0.0
+  fancy_shimmer_image: ^2.0.3
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  get: ^4.6.6
+  smooth_page_indicator: ^1.2.0
+  carousel_slider: ^4.2.1
+  fluttertoast: ^8.2.6
+  random_string: ^2.3.1
+  cloud_firestore: ^5.1.0
+   
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/haha.png
+    - assets/images/person.png
+    - assets/images/iphone2.png
+    - assets/images/iphone.jpg
+    - assets/images/all.jpg
+    - assets/images/ipad.jpg
+    - assets/images/samsung.png
+    - assets/images/airpod.jpg
+    - assets/images/nopro.jpg
+    - assets/images/noproduct.png
+    - assets/images/profile.png
+    - assets/images/banner1.jpg
+    - assets/images/banner2.jpg
+    - assets/images/banner3.png
+    - assets/images/banner4.jpg
+    - assets/images/plus.png
+
+
+
+    
+
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Montserrat-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Montserrat-BoldItalic.ttf
+          weight: 700
+          style: italic
