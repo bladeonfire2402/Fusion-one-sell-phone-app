@@ -37,7 +37,7 @@ This project was developed by me
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/my_profile_app.git
+   git clone [https://github.com/yourusername/my_profile_app.git](https://github.com/bladeonfire2402/Fusion-one-sell-phone-app.git)
    cd "to my app"
 2. **Add package**
    ```bash
