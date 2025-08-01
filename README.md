@@ -6,6 +6,7 @@
 
 
 ## 📌 About FusionOne
+FusionOne is a modern mobile app designed to make shopping for smartphones faster, easier, and more reliable. Whether you're looking for the latest iPhone, a powerful Samsung Galaxy, or an affordable Xiaomi device, FusionOne brings them all to your fingertips.
 
 **FusionOne App** is a simple Flutter application designed with many screens to display:
 
